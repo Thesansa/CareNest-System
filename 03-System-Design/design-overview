@@ -1,0 +1,16 @@
+# System Design Overview
+
+## Introduction
+The system design phase focuses on defining the structure and functionality of the CareNest System. This includes system behavior, data structure, and user interactions.
+
+## Use Case Diagrams
+Use case diagrams were created to represent the interactions between users (Admin and Staff) and the system. These diagrams illustrate key functionalities such as attendance management and medical record handling.
+
+## ER Diagram
+The Entity Relationship (ER) diagram defines the database structure of the system. It includes entities such as Child, MedicalRecord, Attendance, and User, along with their relationships.
+
+## Context Diagram
+The context diagram represents the system at a high level, showing interactions between external actors and the CareNest System.
+
+## Summary
+The system design ensures a structured and scalable solution for managing children’s home operations efficiently.
